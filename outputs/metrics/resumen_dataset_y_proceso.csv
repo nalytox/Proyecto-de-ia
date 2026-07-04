@@ -1,0 +1,9 @@
+metrica,valor
+filas_dataset,50000
+columnas_originales,17
+objetivo,Burnout_Risk_Level
+gpa_antes,
+gpa_despues,
+drop_cols,"Student_ID, Burnout_Risk_Level, target_burnout"
+X_shape_original,"(50000, 17)"
+X_shape_modelado,"(15000, 17)"

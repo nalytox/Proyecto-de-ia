@@ -1,0 +1,11 @@
+Mejor modelo: Random Forest
+
+              precision    recall  f1-score   support
+
+        High       0.57      0.61      0.59       749
+         Low       0.50      0.68      0.58       982
+      Medium       0.51      0.35      0.42      1269
+
+    accuracy                           0.52      3000
+   macro avg       0.53      0.55      0.53      3000
+weighted avg       0.52      0.52      0.51      3000

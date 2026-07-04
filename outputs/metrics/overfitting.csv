@@ -1,0 +1,6 @@
+Modelo,F1 macro train,F1 macro test,Brecha F1 train-test
+Random Forest,0.6247,0.5279,0.0968
+Decision Tree,0.557,0.51,0.047
+KNN,0.472,0.4498,0.0223
+Regresión logística,0.509,0.5135,-0.0044
+Naive Bayes,0.4988,0.5072,-0.0084
